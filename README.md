@@ -1,1 +1,1 @@
-# HoT-C-Hellow-World-App
+# HoT-C-Hello-World-App
